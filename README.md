@@ -5,7 +5,7 @@ Still learning to code......
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Tafsir&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sheikh-Tafsir&repo=Sheikh-Tafsir&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sheikh-Tafsir&repo=Sheikh-Tafsir&theme=radica)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
