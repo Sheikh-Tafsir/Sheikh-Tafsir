@@ -1,5 +1,4 @@
 ### Hi there I'm Tafsir Rahman👋
-Still learning to code......
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheikh-Tafsir&theme=radical&show_icons=true)
 
