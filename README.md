@@ -7,6 +7,9 @@
       <ul>
         <li>Hey there, I am <strong>Tafsir Rahman</strong>👋</li>
       </ul>
+      <h4>Connect with me:</h4>
+      <a href="rubaiyatrahman@iut-dhaka.edu"><img src="https://img.icons8.com/dusk/40/000000/new-post.png"/></a>
+      <a href="https://Sheikh-Tafsir.github.io/"><img src="https://img.icons8.com/dusk/40/000000/internet--v1.png"/></a>
     </td>
   </tr>
 </table>
