@@ -1,5 +1,5 @@
 <img src ="https://gpvc.arturio.dev/Sheikh-Tafsir">
-![pp](https://user-images.githubusercontent.com/83116065/143483908-911590a7-a347-4efc-888e-902d759562b9.gif)
+![dx](https://user-images.githubusercontent.com/83116065/141310858-77d906c6-5efe-4b79-997b-30ab742f8322.gif)
 <table>
   <tr>
     <td>![pp](https://user-images.githubusercontent.com/83116065/143483908-911590a7-a347-4efc-888e-902d759562b9.gif)</td>
