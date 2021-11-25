@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td><img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"></td>
+    <td><img src="https://tenor.com/view/steinsgate-thumbs-up-nice-sweet-cool-gif-10332382"></td>
     <td>
       <ul>
         <li>Hey there, I am <strong>Tafsir Rahman</strong>👋</li>
