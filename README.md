@@ -5,8 +5,9 @@
     <td><img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"></td>
     <td>
       <ul>
-        <li>Hey there, I am <strong>Tafsir Rahman</strong></li>
+        <li>Hey there, I am <strong>Tafsir Rahman</strong>👋</li>
       </ul>
+      <h4>Contacts:</h4>
       <a href="rubaiyatrahman@iut-dhaka.edu"><img src="https://img.icons8.com/dusk/40/000000/new-post.png"/></a>
       <a href="https://Sheikh-Tafsir.github.io/"><img src="https://img.icons8.com/dusk/40/000000/internet--v1.png"/></a>
     </td>
