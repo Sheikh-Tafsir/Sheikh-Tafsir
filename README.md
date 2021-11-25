@@ -6,6 +6,7 @@
     <td>
       <ul>
         <li>Hey there, I am <strong>Tafsir Rahman</strong>👋</li>
+        <li>Pursuing BSC in Computer Science & Engineering</li>
       </ul>
       <h4>Contacts:</h4>
       <a href="rubaiyatrahman@iut-dhaka.edu"><img src="https://img.icons8.com/dusk/40/000000/new-post.png"/></a>
