@@ -3,6 +3,7 @@
 <table>
   <tr>
     <td><img src="https://tenor.com/view/steinsgate-steins-gate-okabe-lol-gif-6063496"></td>
+    <div class="tenor-gif-embed" data-postid="6063496" data-share-method="host" data-aspect-ratio="1.78571" data-width="100%"><a href="https://tenor.com/view/steinsgate-steins-gate-okabe-lol-gif-6063496">Steinsgate Okabe GIF</a>from <a href="https://tenor.com/search/steinsgate-gifs">Steinsgate GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
     <td>
       <ul>
         <li>Hey there, I am <strong>Tafsir Rahman</strong>👋</li>
