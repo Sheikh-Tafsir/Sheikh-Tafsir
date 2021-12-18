@@ -35,8 +35,8 @@
 
 
 <p>📈 Activity Graph</p>
-[![Sheikhs's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sheikh-Tafsir&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Sheikhs's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sheikh-Tafsir&theme=react-dark&area=true&hide_border=true)](https://github.com//Sheikh-Tafsir/github-readme-activity-graph)
+<img src="https://activity-graph.herokuapp.com/graph?username=Sheikh-Tafsir&theme=react-dark&area=true&hide_border=true"  width="100%">
   
 <h2 align='center'><i>Languages and Tools</i></h2>
 
