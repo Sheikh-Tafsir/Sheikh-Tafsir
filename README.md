@@ -70,10 +70,10 @@
         <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg" width="120">
+        <img src="svg/github-icon.svg" alt="Github Icon"  width="60">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+        <img src="svg/github.svg" alt="Github" width="60">
     </td>
 </tr>
 </table >
