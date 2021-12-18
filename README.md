@@ -1,6 +1,6 @@
 <img src ="https://gpvc.arturio.dev/Sheikh-Tafsir">
 
-<h1 align='center'> About:<h1>
+<h2 align='center'> About:</h2>
 
 <table>
   <tr>
