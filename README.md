@@ -20,7 +20,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Tafsir&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sheikh-Tafsir&repo=Sheikh-Tafsir&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Sheikhs's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sheikh-Tafsir&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
