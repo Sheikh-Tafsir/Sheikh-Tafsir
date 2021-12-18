@@ -13,7 +13,7 @@
       </ul>
       <h3 align='center'><i>Social Media Handles</i></h3>
       <p align='center'>
-          <a href="#"><img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504903.png?token=exp=1639808406~hmac=b3478d5c09c0e8fa0743ba9f99ea3616.png" width="50"></a>
+          <a href="https://www.facebook.com/tmr.rahman/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409943.png" width="50"></a>
           <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="50"></a>
           <a href="https://www.instagram.com/sheikh_tafsir_rahman/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"  width="50"></a>
           <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="50"></a>
