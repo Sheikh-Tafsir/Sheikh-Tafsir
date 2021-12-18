@@ -28,12 +28,8 @@
 
 <details>
   <summary>:zap: My Activity:</summary>
+
   
-<p align="center">
-  <a href="https://vyvy-vi.github.io/portfolio"><img target="_blank" src="https://img.shields.io/badge/-I_love_open_source-green?style=for-the-badge&logo=github&logoColor=black"/></a> 
-</p>
-
-
 <h2 align='center'>📈 Activity Graph</h2>
 <!--[![Sheikhs's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sheikh-Tafsir&theme=react-dark&area=true&hide_border=true)](https://github.com//Sheikh-Tafsir/github-readme-activity-graph)-->
 <p align="center">
@@ -80,6 +76,10 @@
     </td>
 </tr>
 </table >
+  
+<p align="center">
+  <a href="https://vyvy-vi.github.io/portfolio"><img target="_blank" src="https://img.shields.io/badge/-I_love_open_source-green?style=for-the-badge&logo=github&logoColor=black"/></a> 
+</p>
   
   
 <p>📅I'm Most Productive on daytime</p>
