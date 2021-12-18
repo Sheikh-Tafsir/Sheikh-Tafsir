@@ -32,7 +32,7 @@
   
 [![Sheikhs's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sheikh-Tafsir&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-📅 **I'm Most Productive on daytime** 
+<p>📅I'm Most Productive on daytime</p>
 <a href="http://lovera.maxam.now.sh/">
    <img src="https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png" alt="screenshot" width="500">
 </a>
