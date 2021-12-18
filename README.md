@@ -11,9 +11,15 @@
         <li>Pursuing BSC in Computer Science & Engineering</li>
         <li>I'm learning C++,Python,JAVA and JS</li>
       </ul>
-      <h4>Contacts:</h4>
+      <!--<h4>Contacts:</h4>
       <a href="rubaiyatrahman@iut-dhaka.edu"><img src="https://img.icons8.com/dusk/40/000000/new-post.png"/></a>
-      <a href="https://Sheikh-Tafsir.github.io/"><img src="https://img.icons8.com/dusk/40/000000/internet--v1.png"/></a>
+      <a href="https://Sheikh-Tafsir.github.io/"><img src="https://img.icons8.com/dusk/40/000000/internet--v1.png"/></a>-->
+      <h3 align='center'><i>Social Media Handles</i></h3>
+      <p align='center'>
+          <a href="https://www.facebook.com/tmr.rahman" target="_blank" class="icon-style fab fa-facebook-f"></a>
+          <a href="https://www.instagram.com/sheikh_tafsir_rahman/" target="_blank" class="icon-style fab fa-instagram"></a>
+          <a href="https://github.com/Sheikh-Tafsir" target="_blank" class="icon-style fa fa-linkedin"></a>
+      </p>
     </td>
   </tr>
 </table>
