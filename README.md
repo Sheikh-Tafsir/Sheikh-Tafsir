@@ -1,6 +1,6 @@
 <img src ="https://gpvc.arturio.dev/Sheikh-Tafsir">
 
-### About:
+<h1 align='center'> About:<h1>
 
 <table>
   <tr>
@@ -34,12 +34,16 @@
 </p>
 
 
-<p>📈 Activity Graph</p>
-[![Sheikhs's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sheikh-Tafsir&theme=react-dark&area=true&hide_border=true)](https://github.com//Sheikh-Tafsir/github-readme-activity-graph)
-<img src="https://activity-graph.herokuapp.com/graph?username=Sheikh-Tafsir&theme=react-dark&area=true&hide_border=true"  width="100%">
-  
-<h2 align='center'><i>Languages and Tools</i></h2>
+<h2 align='center'>📈 Activity Graph</h2>
+<!--[![Sheikhs's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sheikh-Tafsir&theme=react-dark&area=true&hide_border=true)](https://github.com//Sheikh-Tafsir/github-readme-activity-graph)-->
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Sheikh-Tafsir&theme=react-dark&area=true&hide_border=true"  width="100%">
+</a>
+</p>
 
+
+<h2 align='center'><i>Languages and Tools</i></h2>
 <table width="100">
 <tr>
     <td align='center' width="190">
