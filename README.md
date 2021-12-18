@@ -70,7 +70,7 @@
         <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg">
     </td>
     <td align='center'>
-        <img src="svg/github-icon.svg" alt="Github Icon"  width="60">
+        <img src="svg/github-icon.svg" alt="Github Icon" width="200px" />
     </td>
     <td align='center'>
         <img src="svg/github.svg" alt="Github" width="60">
