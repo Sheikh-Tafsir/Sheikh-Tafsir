@@ -21,10 +21,9 @@
   </tr>
 </table>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheikh-Tafsir&theme=radical&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Tafsir&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Tafsir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheikh-Tafsir&theme=radical&show_icons=true)
 
 <details>
   <summary>:zap: My Activity:</summary>
@@ -82,7 +81,7 @@
 </p>
   
   
-<p>📅I'm Most Productive on daytime</p>
+<h4>📅I'm Most Productive on daytime</h4>
 <a href="http://lovera.maxam.now.sh/">
    <img src="https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png" alt="screenshot" width="500">
 </a>
