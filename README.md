@@ -61,6 +61,8 @@
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
 ![EReact](https://img.shields.io/badge/-React-000000?style=flat&logo=react) <br />
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000000?style=flat&logo=Visual%20Studio)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)<br />
 ![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word)
 ![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
