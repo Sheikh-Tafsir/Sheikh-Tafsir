@@ -9,7 +9,7 @@
       <ul>
         <li>👋 Hey there, I am <strong>Tafsir Rahman</strong></li>
         <li>Pursuing BSC in Computer Science & Engineering</li>
-        <li>I'm learning C++,Python,JAVA and JS</li>
+        <li>Learning Web dev, Soft Dev</li>
       </ul>
       <h3 align='center'><i>Social Media Handles</i></h3>
       <p align='center'>
