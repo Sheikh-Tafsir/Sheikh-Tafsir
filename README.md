@@ -21,7 +21,9 @@
     </td>
   </tr>
 </table>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sheikh-Tafsir" alt="https://github.com/ileriayo" />
+</p>
 <h2 align='center'> Languages & Stats:</h2>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Tafsir&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
