@@ -30,8 +30,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Tafsir&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![Tafsir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheikh-Tafsir&theme=radical&show_icons=true)
 
-<div align="center">
-  ## Languages
+<h2 align="center">Languages:</h2>
   ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
   ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
   ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
@@ -42,7 +41,7 @@
   <!--![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)-->
 
 
-  ## Tools:
+<h2 align="center">Tools:</h2>
   ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
   ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
   ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
@@ -55,7 +54,6 @@
   ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)<br />
   ![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word)
   ![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
-</div>
 
 <details>
   <summary>:zap: My Activity:</summary>
