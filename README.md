@@ -30,6 +30,32 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Tafsir&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![Tafsir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheikh-Tafsir&theme=radical&show_icons=true)
 
+<div align="center">
+  ## Languages
+  ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+  ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+  ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+  ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+  ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+  <!--![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)-->
+
+
+  ## Tools:
+  ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+  ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
+  ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
+  ![EReact](https://img.shields.io/badge/-React-000000?style=flat&logo=react) <br />
+  ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000000?style=flat&logo=Visual%20Studio)
+  ![PyCharm](https://img.shields.io/badge/pycharm-000000?style=flat&logo=pycharm)
+  ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)<br />
+  ![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word)
+  ![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
+</div>
 
 <details>
   <summary>:zap: My Activity:</summary>
@@ -43,32 +69,6 @@
 </a>
 </p>
 
-## Languages
-
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
-<!--![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)-->
-  
-
-## Tools:
-
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
-![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
-![EReact](https://img.shields.io/badge/-React-000000?style=flat&logo=react) <br />
-![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000000?style=flat&logo=Visual%20Studio)
-![PyCharm](https://img.shields.io/badge/pycharm-000000?style=flat&logo=pycharm)
-![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)<br />
-![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word)
-![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
   
 <!--<h2 align='center'><i>Languages and Tools</i></h2>
 <table width="100">
