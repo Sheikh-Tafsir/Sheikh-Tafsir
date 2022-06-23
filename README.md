@@ -33,7 +33,7 @@
   <img width="60%" src="http://github-readme-streak-stats.herokuapp.com?user=Sheikh-Tafsir&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
 </p>-->
 
-  <table>
+  <table style="border: none">
     <tr>
       <td valign="top"><img height="300" src="https://github-readme-stats.vercel.app/api?username=Sheikh-Tafsir&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Statistics"/></td>
       <td valign="top"><img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Tafsir&langs_count=10&layout=compact&theme=radical&hide_border=true&hide=HTML&custom_title=Languages"/></td>
