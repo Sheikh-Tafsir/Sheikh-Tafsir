@@ -32,7 +32,7 @@
   <img width="60%" src="http://github-readme-streak-stats.herokuapp.com?user=Sheikh-Tafsir&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
-<table cellpadding="0" border="0">
+<table cellpadding="0" style="border: 0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
     <td valign="top"><img height="300" src="https://github-readme-stats.vercel.app/api?username=Sheikh-Tafsir&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Statistics"/></td>
@@ -43,8 +43,6 @@
   
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Tafsir&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Tafsir&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
-![Tafsir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheikh-Tafsir&theme=radical&show_icons=true)
 
 <h2 align="center">Languages:</h2>
 
