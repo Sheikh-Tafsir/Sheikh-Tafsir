@@ -31,6 +31,7 @@
 ![Tafsir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheikh-Tafsir&theme=radical&show_icons=true)
 
 <h2 align="center">Languages:</h2>
+
   ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
   ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
   ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
@@ -42,6 +43,7 @@
 
 
 <h2 align="center">Tools:</h2>
+
   ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
   ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
   ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
