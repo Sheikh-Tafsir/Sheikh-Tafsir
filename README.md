@@ -1,13 +1,14 @@
-<h2 align='center'> About:</h2>
+<h2 align='center'>👋 Hey, I am <strong>Tafsir Rahman</h2>
 
 <table>
   <tr>
     <td><img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"></td>
     <td>
       <ul>
-        <li>👋 Hey there, I am <strong>Tafsir Rahman</strong></li>
         <li>Pursuing BSC in Computer Science & Engineering</li>
-        <li>Learning Web dev, Soft Dev</li>
+        <li>Improving Web Developement</li>
+        <li>Likes Problem solving<li>
+        <li>Learning Data science<li>
       </ul>
       <h3 align='center'><i>Social Media Handles</i></h3>
       <p align='center'>
