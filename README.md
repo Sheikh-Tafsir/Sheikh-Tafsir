@@ -2,8 +2,8 @@
 
 ![Black Minimalist Creative Portfolio - Presentation](https://user-images.githubusercontent.com/83116065/175251711-24bd20f3-4be3-408a-9bd3-83e845727bbe.png)
   
-<table cellpadding="0">
-  <tr style="padding: 0">
+<table>
+  <tr>
     <td><img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"></td>
     <td width="50%">
       <h3 align='center'><i>About</i></h3>
@@ -32,7 +32,7 @@
   <img width="60%" src="http://github-readme-streak-stats.herokuapp.com?user=Sheikh-Tafsir&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
-<table cellpadding="0">
+<table>
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
     <td valign="top"><img height="300" src="https://github-readme-stats.vercel.app/api?username=Sheikh-Tafsir&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Statistics"/></td>
