@@ -28,14 +28,13 @@
 </p>
 <h2 align='center'>Stats:</h2>
   
-<table>
-  <tr>
-    <td>
-    
-    </td>
-    <td>
-      ajdbmabfma
-    </td>
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top><img height="300" src="https://github-readme-stats.vercel.app/api?username=Sheikh-Tafsir&theme=radical&show_icons=true"/></td>
+                                                                                                                                           
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zedrex&langs_count=10&layout=compact&theme=onedark&hide_border=true&hide=HTML&custom_title=Languages"/></td>
   </tr>
 </table>
   
