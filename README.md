@@ -27,6 +27,18 @@
   <img src="https://komarev.com/ghpvc/?username=Sheikh-Tafsir" alt="https://github.com/ileriayo" />
 </p>
 <h2 align='center'>Stats:</h2>
+  
+<table>
+  <tr>
+    <td>
+      ![Tafsir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheikh-Tafsir&theme=radical&show_icons=true)
+    </td>
+    <td>
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Tafsir&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    </td>
+  </tr>
+</table>
+  
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Tafsir&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Tafsir&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
