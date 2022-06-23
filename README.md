@@ -1,43 +1,44 @@
 <h2 align='center'>👋 Hey, I am <strong>Tafsir Rahman</h2>
 
-![Black Minimalist Creative Portfolio - Presentation](https://user-images.githubusercontent.com/83116065/175251711-24bd20f3-4be3-408a-9bd3-83e845727bbe.png)
-  
-<table>
-  <tr>
-    <td><img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"></td>
-    <td width="50%">
-      <h3 align='center'><i>About</i></h3>
-      <ul>
-        <li>Pursuing BSC in Computer Science & Engineering</li>
-        <li>Improving Web Developement</li>
-        <li>Likes Problem solving</li>
-        <li>Learning Data science</li>
-      </ul>
-      <h3 align='center'><i>Social Media Handles</i></h3>
-      <p align='center'>
-          <a href="https://www.facebook.com/tmr.rahman/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409943.png" width="50"></a>
-          <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="50"></a>
-          <a href="https://www.instagram.com/sheikh_tafsir_rahman/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"  width="50"></a>
-          <a href="https://www.linkedin.com/in/tafsir-rahman-391767210/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="50"></a>
-      </p>
-    </td>
-  </tr>
-</table>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sheikh-Tafsir" alt="https://github.com/ileriayo" />
-</p>
+  ![Black Minimalist Creative Portfolio - Presentation](https://user-images.githubusercontent.com/83116065/175251711-24bd20f3-4be3-408a-9bd3-83e845727bbe.png)
+
+  <table>
+    <tr>
+      <td><img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"></td>
+      <td width="50%">
+        <h3 align='center'><i>About</i></h3>
+        <ul>
+          <li>Pursuing BSC in Computer Science & Engineering</li>
+          <li>Improving Web Developement</li>
+          <li>Likes Problem solving</li>
+          <li>Learning Data science</li>
+        </ul>
+        <h3 align='center'><i>Social Media Handles</i></h3>
+        <p align='center'>
+            <a href="https://www.facebook.com/tmr.rahman/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409943.png" width="50"></a>
+            <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="50"></a>
+            <a href="https://www.instagram.com/sheikh_tafsir_rahman/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"  width="50"></a>
+            <a href="https://www.linkedin.com/in/tafsir-rahman-391767210/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="50"></a>
+        </p>
+      </td>
+    </tr>
+  </table>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Sheikh-Tafsir" alt="https://github.com/ileriayo" />
+  </p>
+
 <h2 align='center'>Stats:</h2>
   
-<p align="center">  
+<!--<p align="center">  
   <img width="60%" src="http://github-readme-streak-stats.herokuapp.com?user=Sheikh-Tafsir&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
+</p>-->
 
-<table>
-  <tr>
-    <td valign="top"><img height="300" src="https://github-readme-stats.vercel.app/api?username=Sheikh-Tafsir&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Statistics"/></td>
-    <td valign="top"><img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Tafsir&langs_count=10&layout=compact&theme=radical&hide_border=true&hide=HTML&custom_title=Languages"/></td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td valign="top"><img height="300" src="https://github-readme-stats.vercel.app/api?username=Sheikh-Tafsir&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Statistics"/></td>
+      <td valign="top"><img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Tafsir&langs_count=10&layout=compact&theme=radical&hide_border=true&hide=HTML&custom_title=Languages"/></td>
+    </tr>
+  </table>
   
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Tafsir&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
