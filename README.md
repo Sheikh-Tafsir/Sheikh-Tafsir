@@ -61,9 +61,9 @@
 <h2 align="center">Other Sociak Media:</h2>
   
   <a href="https://codeforces.com/profile/Tafsir_Rahman">https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white</a>
-  <a href="https://leetcode.com/Sheikh-Tafsir/">https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black</a>
+  <!--<a href="https://leetcode.com/Sheikh-Tafsir/">https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black</a>
   <a href="https://www.linkedin.com/in/tafsir-rahman-391767210/">https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white</a>
-  <a href="https://myanimelist.net/profile/Tafsir_Rahman">https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white</a>
+  <a href="https://myanimelist.net/profile/Tafsir_Rahman">https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white</a>-->
 
   <details>
   <summary>:zap: My Activity:</summary>
