@@ -31,7 +31,9 @@
 <table>
   <tr>
     <td>
+      
       ![Tafsir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheikh-Tafsir&theme=radical&show_icons=true)
+    
     </td>
     <td>
       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Tafsir&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
