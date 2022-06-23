@@ -7,8 +7,8 @@
       <ul>
         <li>Pursuing BSC in Computer Science & Engineering</li>
         <li>Improving Web Developement</li>
-        <li>Likes Problem solving<li>
-        <li>Learning Data science<li>
+        <li>Likes Problem solving</li>
+        <li>Learning Data science</li>
       </ul>
       <h3 align='center'><i>Social Media Handles</i></h3>
       <p align='center'>
