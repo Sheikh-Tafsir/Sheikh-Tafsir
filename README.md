@@ -5,7 +5,7 @@
 <table cellpadding="0">
   <tr style="padding: 0">
     <td><img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"></td>
-    <td>
+    <td width="50%">
       <h3 align='center'><i>About</i></h3>
       <ul>
         <li>Pursuing BSC in Computer Science & Engineering</li>
