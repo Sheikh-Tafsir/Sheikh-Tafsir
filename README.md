@@ -18,7 +18,7 @@
           <a href="https://www.facebook.com/tmr.rahman/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409943.png" width="50"></a>
           <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="50"></a>
           <a href="https://www.instagram.com/sheikh_tafsir_rahman/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"  width="50"></a>
-          <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="50"></a>
+          <a href="https://www.linkedin.com/in/tafsir-rahman-391767210/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="50"></a>
       </p>
     </td>
   </tr>
