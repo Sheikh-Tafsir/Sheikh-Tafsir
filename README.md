@@ -1,4 +1,4 @@
-<h2 align='center' style="color:blue;">👋 Hey, I am <strong>Tafsir Rahman</h2>
+<h2 align='center'>👋 Hey, I am <strong>Tafsir Rahman</h2>
 
 <table>
   <tr>
