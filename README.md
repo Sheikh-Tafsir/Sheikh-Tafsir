@@ -1,7 +1,4 @@
 <h2 align='center'>👋 Hey, I am <strong>Tafsir Rahman</h2>
-
-  ![Black Minimalist Creative Portfolio - Presentation](https://user-images.githubusercontent.com/83116065/175251711-24bd20f3-4be3-408a-9bd3-83e845727bbe.png)
-
   <table>
     <tr>
       <td><img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"></td>
