@@ -24,6 +24,8 @@
     <img src="https://komarev.com/ghpvc/?username=Sheikh-Tafsir" alt="https://github.com/ileriayo" />
   </p>
 
+---
+  
 <h2 align='center'>📊Stats:</h2>
   
 <!--<p align="center">  
@@ -37,6 +39,7 @@
     </tr>
   </table>
 
+---
   
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Tafsir&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
@@ -52,6 +55,7 @@
   ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
   <!--![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)-->
 
+---
 
 <h2 align="center">Tools:</h2>
 
@@ -68,6 +72,7 @@
   ![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word)
   ![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
   
+---
 
 <h2 align="center">🏆 GitHub Trophies:</h2>
   
