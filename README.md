@@ -69,8 +69,12 @@
   ![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
   
 
-<h2 align="center">🏆 GitHub Trophies:</h2>
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sheikh-Tafsir&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Sheikh-Tafsir&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
   
 <h2 align="center">Other Sociak Media:</h2>
