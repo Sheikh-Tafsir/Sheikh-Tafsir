@@ -30,16 +30,12 @@
   <img width="60%" src="http://github-readme-streak-stats.herokuapp.com?user=Sheikh-Tafsir&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
 </p>-->
 
-  <!--<table style="border: none">
+  <table style="border: none">
     <tr>
       <td valign="top"><img height="300" src="https://github-readme-stats.vercel.app/api?username=Sheikh-Tafsir&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Statistics"/></td>
       <td valign="top"><img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Tafsir&langs_count=10&layout=compact&theme=radical&hide_border=true&hide=HTML&custom_title=Languages"/></td>
     </tr>
-  </table>-->
- 
-![](https://github-readme-stats.vercel.app/api?username=Sheikh-Tafsir&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sheikh-Tafsir&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Tafsir&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  </table>
 
   
 
@@ -72,6 +68,10 @@
   ![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word)
   ![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
   
+
+<h2 align="center">🏆 GitHub Trophies:</h2>
+![](https://github-profile-trophy.vercel.app/?username=Sheikh-Tafsir&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
   
 <h2 align="center">Other Sociak Media:</h2>
   
