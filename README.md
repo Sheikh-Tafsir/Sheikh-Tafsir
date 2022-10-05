@@ -24,18 +24,23 @@
     <img src="https://komarev.com/ghpvc/?username=Sheikh-Tafsir" alt="https://github.com/ileriayo" />
   </p>
 
-<h2 align='center'>Stats:</h2>
+<h2 align='center'>📊Stats:</h2>
   
 <!--<p align="center">  
   <img width="60%" src="http://github-readme-streak-stats.herokuapp.com?user=Sheikh-Tafsir&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
 </p>-->
 
-  <table style="border: none">
+  <!--<table style="border: none">
     <tr>
       <td valign="top"><img height="300" src="https://github-readme-stats.vercel.app/api?username=Sheikh-Tafsir&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Statistics"/></td>
       <td valign="top"><img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Tafsir&langs_count=10&layout=compact&theme=radical&hide_border=true&hide=HTML&custom_title=Languages"/></td>
     </tr>
-  </table>
+  </table>-->
+ 
+![](https://github-readme-stats.vercel.app/api?username=Sheikh-Tafsir&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sheikh-Tafsir&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Tafsir&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
   
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Tafsir&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
