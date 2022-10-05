@@ -61,7 +61,8 @@
 ---
 
 <h2 align="center">Tools:</h2>
-
+<div align="center">
+  
   ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
   ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
   ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
@@ -75,22 +76,28 @@
   ![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word)
   ![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
   
+</div>
 ---
 
 <h2 align="center">🏆 GitHub Trophies:</h2>
+
+<div align="center">
   
 ![](https://github-profile-trophy.vercel.app/?username=Sheikh-Tafsir&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+</div>
 ---
 
   
 <h2 align="center">Other Sociak Media:</h2>
+<div align="center">
   
   <a href="https://codeforces.com/profile/Tafsir_Rahman"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"></a>
   <a href="https://leetcode.com/Sheikh-Tafsir/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
   <a href="https://www.linkedin.com/in/tafsir-rahman-391767210/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://myanimelist.net/profile/Tafsir_Rahman"><img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white"></a>
 
+</div>
   <details>
   <summary>:zap: My Activity:</summary>
 
