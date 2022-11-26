@@ -41,6 +41,16 @@
 
 ---
   
+<h2 align='center'>📈 Activity Graph</h2>
+<!--[![Sheikhs's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sheikh-Tafsir&theme=react-dark&area=true&hide_border=true)](https://github.com//Sheikh-Tafsir/github-readme-activity-graph)-->
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Sheikh-Tafsir&theme=react-dark&area=true&hide_border=true"  width="100%">
+</a>
+</p>  
+  
+----
+  
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Tafsir&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
 
@@ -91,7 +101,10 @@
 ---
 
   
-<h2 align="center">Other Sociak Media:</h2>
+<!--<details>
+  <summary>:zap: My Activity:</summary>-->
+
+<h2 align="center">Other Social Media:</h2>
 <div align="center">
   
   <a href="https://codeforces.com/profile/Tafsir_Rahman"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"></a>
@@ -100,17 +113,8 @@
   <a href="https://myanimelist.net/profile/Tafsir_Rahman"><img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white"></a>
 
 </div>
-  <details>
-  <summary>:zap: My Activity:</summary>
+    
 
-  
-<h2 align='center'>📈 Activity Graph</h2>
-<!--[![Sheikhs's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sheikh-Tafsir&theme=react-dark&area=true&hide_border=true)](https://github.com//Sheikh-Tafsir/github-readme-activity-graph)-->
-<p align="center">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Sheikh-Tafsir&theme=react-dark&area=true&hide_border=true"  width="100%">
-</a>
-</p>
 
   
 <!--<h2 align='center'><i>Languages and Tools</i></h2>
