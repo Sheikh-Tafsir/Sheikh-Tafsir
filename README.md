@@ -162,7 +162,7 @@
   
 <h2 align="center">📅 Productive Time</h2>
 <a href="http://lovera.maxam.now.sh/" align="center">
-   <img src="https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png" alt="screenshot" width="500">
+   <img src="https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png" alt="screenshot" width="500" align="center">
 </a>
 
 
