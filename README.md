@@ -6,9 +6,9 @@
         <h3 align='center'><i>About</i></h3>
         <ul>
           <li>Pursuing BSC in Computer Science & Engineering</li>
-          <li>Improving Web Developement</li>
-          <li>Likes Problem solving</li>
-          <li>Learning Data science</li>
+          <li>Enhancing skill in Full Stack Web Developement</li>
+          <li>Improving App Development</li>
+          <li>Interested in Data science</li>
         </ul>
         <h3 align='center'><i>Social Media Handles</i></h3>
         <p align='center'>
@@ -42,11 +42,12 @@
 ---
   
 <h2 align='center'>📈 Activity Graph</h2>
-<!--[![Sheikhs's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sheikh-Tafsir&theme=react-dark&area=true&hide_border=true)](https://github.com//Sheikh-Tafsir/github-readme-activity-graph)-->
 <p align="center">
+  
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=Sheikh-Tafsir&theme=react-dark&area=true&hide_border=true"  width="100%">
 </a>
+  
 </p>  
   
 ----
