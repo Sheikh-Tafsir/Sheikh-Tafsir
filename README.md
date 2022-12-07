@@ -44,9 +44,7 @@
 <h2 align='center'>📈 Activity Graph</h2>
 <p align="center">
   
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Sheikh-Tafsir&theme=react-dark&area=true&hide_border=true"  width="100%">
-</a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sheikh-tafsir&bg_color=141321&color=9e4c98&line=fe428e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </p>  
   
