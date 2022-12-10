@@ -56,15 +56,24 @@
 <h2 align="center">Languages:</h2>
 <div align="center">
   
-  ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+  <!--![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
   ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
   ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
   ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-  ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+  ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)-->
   <!--![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)-->
-
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  
 </div>
 
 ---
